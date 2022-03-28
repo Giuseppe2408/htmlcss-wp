@@ -13,7 +13,7 @@ body {
     margin: 0 auto;
 }
 
-
+/* logo */
 header {
     height: 200px;
     
@@ -25,7 +25,7 @@ header > img {
     padding-right: 20px;
     border-right: 1px solid lightgrey;
 }
-
+/* nav */
 ul li {
     list-style-type: none;
 }
@@ -38,7 +38,7 @@ li a {
     margin-right: 15px;
     text-decoration: none;
 }
-
+/* hero */
 .position {
     position: relative;
 }
