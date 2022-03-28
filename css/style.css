@@ -51,10 +51,16 @@ li a {
 
 .opacity {
     background-color: black;
-    border-radius: 10px;
-    width: 100%;
-    background-size: cover;
+    height: 300px;
+    width: 100%; 
+    background-size: cover; 
 }
+
+#background {
+    border-radius: 20px;
+    background-color: black;
+}
+
 
 #hero {
     width: 100%;
@@ -104,6 +110,10 @@ section div span {
 .pillar {
     float: left;
     margin-right: 3%;
+}
+
+.border {
+    border-radius: 10px;
 }
 
 .sx {
