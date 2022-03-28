@@ -16,7 +16,6 @@ body {
 /* logo */
 header {
     height: 200px;
-    
 }
 
 header > img {
@@ -41,6 +40,7 @@ li a {
 /* hero */
 .position {
     position: relative;
+    margin: 20px 0;
 }
 
 #hero {
@@ -73,6 +73,17 @@ section div span {
     margin: 50px 0;
 }
 
+.title > h1 {
+    font-size: 50px;
+}
+
+.color {
+    color: grey;
+}
+
+.text {
+    font-size: 20px;
+}
 
 /* inizio layout */
 
@@ -96,10 +107,6 @@ section div span {
     filter: brightness(0.7);
     border-radius: 10px;
     height: 300px;
-}
-
-.img-description {
-    color: grey;
 }
 
 .center {
